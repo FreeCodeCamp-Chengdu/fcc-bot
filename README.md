@@ -23,6 +23,6 @@ FCC是一个纯技术社区。由于社区参与者越来越多，微信群越�
 前端项目仓库
 [https://github.com/FreeCodeCamp-Chengdu/fcc-bot-fe](https://github.com/FreeCodeCamp-Chengdu/fcc-bot-fe)
 
-
+贡献者需要联系Helen提供token
 
 
