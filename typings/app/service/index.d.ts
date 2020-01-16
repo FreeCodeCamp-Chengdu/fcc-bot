@@ -2,7 +2,7 @@
 // Do not modify this file!!!!!!!!!
 
 import 'egg';
-import ExportBot = require('../../../app/service/bot');
+import ExportBot from '../../../app/service/bot';
 
 declare module 'egg' {
   interface IService {

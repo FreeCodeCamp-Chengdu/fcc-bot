@@ -2,7 +2,7 @@
 // Do not modify this file!!!!!!!!!
 
 import 'egg';
-import ExportBot = require('../../../app/controller/bot');
+import ExportBot from '../../../app/controller/bot';
 import ExportHome from '../../../app/controller/home';
 
 declare module 'egg' {
